@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StaticSceneManager
+  - SoundManager
+  - mainBattleStage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerAttackErea
+  - EnemyAttaclErea
+  - PlayerMoveCheck
+  - StageBase
+  - CharacterMenu
+  - systemMenu
+  - groundEffect
+  - PlayerDefenceEffectErea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: charaBackParticleLayer
+    uniqueID: 4264969263
+    locked: 0
+  - name: charactors
+    uniqueID: 3568555955
+    locked: 0
+  - name: charaFrontParticle
+    uniqueID: 3604885453
+    locked: 0
+  - name: DamageFontAndEffect
+    uniqueID: 3036771373
+    locked: 0
+  - name: charaMenu
+    uniqueID: 1545376071
+    locked: 0
+  - name: systemMenu
+    uniqueID: 1596970747
+    locked: 0
+  - name: talkingScene
+    uniqueID: 3178214791
+    locked: 0
+  - name: GUI
+    uniqueID: 773111051
+    locked: 0

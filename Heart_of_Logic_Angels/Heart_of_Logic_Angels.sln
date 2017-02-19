@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heart_of_Logic_Angels.CSharp.Plugins", "Heart_of_Logic_Angels.CSharp.Plugins.csproj", "{4FDC3DE7-AAEE-5E0A-D6F6-C7C0DE49B693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heart_of_Logic_Angels.CSharp", "Heart_of_Logic_Angels.CSharp.csproj", "{B7658A18-F1C6-359F-D54B-C8B8D11C20D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heart_of_Logic_Angels.CSharp.Editor.Plugins", "Heart_of_Logic_Angels.CSharp.Editor.Plugins.csproj", "{BE46C68C-B87B-C485-18AE-14DDE0DB8F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heart_of_Logic_Angels.CSharp.Editor", "Heart_of_Logic_Angels.CSharp.Editor.csproj", "{682F31B4-25B2-C16E-CD90-186F460ED777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDC3DE7-AAEE-5E0A-D6F6-C7C0DE49B693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDC3DE7-AAEE-5E0A-D6F6-C7C0DE49B693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDC3DE7-AAEE-5E0A-D6F6-C7C0DE49B693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDC3DE7-AAEE-5E0A-D6F6-C7C0DE49B693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7658A18-F1C6-359F-D54B-C8B8D11C20D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7658A18-F1C6-359F-D54B-C8B8D11C20D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7658A18-F1C6-359F-D54B-C8B8D11C20D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7658A18-F1C6-359F-D54B-C8B8D11C20D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE46C68C-B87B-C485-18AE-14DDE0DB8F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE46C68C-B87B-C485-18AE-14DDE0DB8F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE46C68C-B87B-C485-18AE-14DDE0DB8F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE46C68C-B87B-C485-18AE-14DDE0DB8F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682F31B4-25B2-C16E-CD90-186F460ED777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682F31B4-25B2-C16E-CD90-186F460ED777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682F31B4-25B2-C16E-CD90-186F460ED777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682F31B4-25B2-C16E-CD90-186F460ED777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
